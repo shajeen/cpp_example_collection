@@ -1,7 +1,7 @@
 # cpp_stl
 ![](https://img.shields.io/badge/languaga-C%2B%2B20-brightgreen)
 
-**Example of C++ stl, in realtime.**
+**Example of C++ stl, with C++ Insight.**
 
 ### Topics covered
  * Algorithm

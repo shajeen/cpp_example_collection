@@ -34,3 +34,5 @@
 # folder
 build
 .vscode
+.vs
+out
