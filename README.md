@@ -1,16 +1,26 @@
 # cpp_stl
 ![](https://img.shields.io/badge/languaga-C%2B%2B20-brightgreen)
 
-**Example of C++ stl, with C++ Insight.**
+**Example of C++ library example collection.**
 
 ### Topics covered
- * Algorithm
-    * std::accumulator
-    * std::adjacent_difference
-    * std::adjacent_find
-    * std::all_of
-    * std::any_of
-    * std::binary_search
+ -[] RAII and Memory Management
+ -[] String Handling
+ -[] Containers
+ -[] Data Structures
+ -[] Algorithms
+ -[] Communications
+ -[] Streams and Files
+ -[] Time
+ -[] Functional Programming
+ -[] Parallel Programming
+ -[] Generic Programming
+ -[] Language Extensions
+ -[] Error Handling
+ -[] Number Handling
+ -[] Application Libraries
+ -[] Design pattern
+ -[] Other Libraries
     
 ### How to build
 #### Debug
