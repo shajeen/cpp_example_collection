@@ -23,4 +23,4 @@
  17. Other Libraries
     
 ### Information
-check more information at wiki page ![Wiki Page](https://github.com/shajeen/cpp_library_example_collection/wiki)
+check more information at [Wiki Page](https://github.com/shajeen/cpp_library_example_collection/wiki).
