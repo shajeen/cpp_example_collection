@@ -22,14 +22,5 @@
  16. Design pattern
  17. Other Libraries
     
-### How to build
-#### Debug
-```
-cmake .. -DCMAKE_BUILD_TYPE=Debug
-cmake --build . --config Debug
-```
-#### Release
-```
-cmake .. -DCMAKE_BUILD_TYPE=Release
-cmake --build . --config Release
-```
+### Information
+check more information at wiki page 1[Wiki Page](https://github.com/shajeen/cpp_library_example_collection/wiki)
