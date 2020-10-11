@@ -1,5 +1,5 @@
 # CPP Library Example Collections 
-![](https://img.shields.io/badge/languaga-C%2B%2B20-brightgreen)
+![CMake](https://github.com/shajeen/cpp_library_example_collection/workflows/CMake/badge.svg?branch=main)
 
 **Example of C++ library example collection.**
 
