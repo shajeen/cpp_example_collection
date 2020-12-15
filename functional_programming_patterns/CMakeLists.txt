@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.6)
+project(functional_programming_patterns)
+
+add_executable("closure" closure.cpp)
+add_executable("lazy" lazy.cpp)
+add_executable("map" map.cpp)
+add_executable("functors" functors.cpp)
+add_executable("monads" monads.cpp)
+add_executable("fold_and_reduce" fold_and_reduce.cpp)
+add_executable("multiple_return_value" multiple_return_value.cpp)
+add_executable("dynamic_wind" dynamic_wind.cpp)
