@@ -1,0 +1,26 @@
+﻿---
+BasedOnStyle: Microsoft
+AlignAfterOpenBracket: Align
+AlignEscapedNewlines: Left
+AlignConsecutiveMacros: 'true'
+AlignEscapedNewlines: 'true'
+AlignOperands: 'true'
+AlignTrailingComments: 'true'
+AllowAllArgumentsOnNextLine: 'false'
+AllowAllConstructorInitializersOnNextLine: 'false'
+AllowAllParametersOfDeclarationOnNextLine: 'false'
+AllowShortCaseLabelsOnASingleLine: 'true'
+BreakBeforeBinaryOperators: 'false'
+BreakBeforeBraces: Mozilla
+BreakBeforeTernaryOperators: 'true'
+IncludeBlocks: Regroup
+Language: Cpp
+NamespaceIndentation: All
+PointerAlignment: Left
+SpaceBeforeAssignmentOperators: 'true'
+SpaceBeforeCpp11BracedList: 'true'
+ColumnLimit: 200
+UseTab: ForIndentation
+Standard: Auto
+
+...
