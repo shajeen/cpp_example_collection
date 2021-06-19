@@ -5,7 +5,7 @@
 
 #include "failed_testcase.h"
 
-#include "..\catch.hpp"
+#include <catch.hpp>
 
 TEST_CASE("unvalid function test", "failed")
 {
