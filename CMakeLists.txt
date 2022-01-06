@@ -9,3 +9,4 @@ set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
 add_subdirectory(functional_programming_patterns)
 add_subdirectory(catch2)
+add_subdirectory(modern_cpp_tutorial)
