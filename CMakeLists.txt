@@ -2,8 +2,6 @@ cmake_minimum_required(VERSION 3.0)
 project(cpp_example_collection)
 
 set(CMAKE_CXX_STANDARD 20)
-SET (CMAKE_C_COMPILER  "/usr/bin/clang")
-SET (CMAKE_CXX_COMPILER "/usr/bin/clang++")
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
