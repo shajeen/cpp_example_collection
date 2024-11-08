@@ -4,3 +4,4 @@ project(snippet)
 
 add_executable(snippet_print_reverse_order print_reverse_order.cpp)
 add_executable(snippet_measure_time measure_time.cpp)
+add_executable(matrix_times_vector matrix_times_vector.cpp)
